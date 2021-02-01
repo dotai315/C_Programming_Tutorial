@@ -15,7 +15,7 @@
 
 // private variable 
 /* BEGIN USER CODE PV */
-
+int count = 0;
 /* END USER CODE PV */
 
 /* BEGIN USER CODE 0 */
@@ -60,6 +60,9 @@ int main()
         printf("My name is Do Huu Tai\n");
         delay(1000);
         printf("My love is Nguyen Thao Ngoc Doan\n");
+        delay(1000);
+        count++;
+        printf("The count of program: %d\n", count);
         delay(1000);
     }
 
