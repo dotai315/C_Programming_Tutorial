@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1613234325 source:d:\git_workspace\c_programming_tutorial\file\reading\reading\main.c
+	<stdio.h>
+	<stdlib.h>
+

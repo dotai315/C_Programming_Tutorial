@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1613235758 source:d:\git_workspace\c_programming_tutorial\file\write_1_character\fputc\main.c
+	<stdio.h>
+	<stdlib.h>
+
